@@ -2,7 +2,7 @@
 Welcome to my Github repository!
 
 • Created a robust web application that leverages Node.js, TypeScript, Ticketmaster API, Spotify API, Google Maps API, Ipinfo API,
-and AJAX to showcase event, artist and venue details.
+and AJAX to showcase event, artist and venue details. \n
 • To craft an engaging user experience, I employed AngularJS, JavaScript, jQuery, HTML5, and Bootstrap for the client-side
 scripting, and deployed the application on the Google Cloud platform for optimal performance and accessibility.
 
