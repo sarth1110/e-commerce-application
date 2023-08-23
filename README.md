@@ -1,4 +1,4 @@
-# EventMasterAngular
+# Event Master
 Welcome to my Github repository!
 
 • Created a robust web application that leverages Node.js, TypeScript, Ticketmaster API, Spotify API, Google Maps API, Ipinfo API,
