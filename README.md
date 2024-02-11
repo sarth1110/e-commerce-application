@@ -1,4 +1,4 @@
-# Event Master
+# E-commerce Application
 Welcome to my Github repository!
 
 •  Built a dynamic full-stack e-commerce web application, integrating an engaging Angular-based UI and an iOS application (using Swift), with a robust Node.js backend built on the Express framework and mongoDB database. Successfully implemented 8+ REST APIs for seamless functionality.<br>
